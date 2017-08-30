@@ -1,0 +1,13 @@
+Present 4 face down cards
+
+If card is clicked on
+
+Then flip card face up
+
+If two face up cards are the same
+
+Then alert user: you've won
+
+If two face up cards are not the same
+
+Then alert user: try again
